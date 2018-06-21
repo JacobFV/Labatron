@@ -1,0 +1,5 @@
+"63.5500 * 1 Cu + 35.4500 * 2 Cl = 134.4500g/mol","55.8500 * 1 Fe = 55.8500g/mol","55.8500 * 1 Fe + 35.4500 * 3 Cl = 162.2000g/mol","63.5500 * 1 Cu = 63.5500g/mol",
+"0.0019mol * 134.4500g/mol = 0.1685g","0.07 grams given","0.0013mol * 162.2000g/mol = 0.2033g","0.0019mol * 63.5500g/mol = 0.0797g",
+"(0.07g / 55.85g/mol) 2Fe(s) * 3CuCl2(aq) / 2Fe(s) = 0.0019mol","(0.07g / 55.85g/mol) 2Fe(s) * 2Fe(s) / 2Fe(s) = 0.0013mol","(0.07g / 55.85g/mol) 2Fe(s) * 2FeCl3(aq) / 2Fe(s) = 0.0013mol","(0.07g / 55.85g/mol) 2Fe(s) * 3Cu(s) / 2Fe(s) = 0.0019mol",
+"3CuCl2(aq) is not a gas","2Fe(s) is not a gas","2FeCl3(aq) is not a gas","3Cu(s) is not a gas",
+"1Cu * 63.5500g/mol Cu / 134.4500g/mol 3CuCl2(aq) * 100% = 47% Cu in 3CuCl2(aq) 2Cl * 35.4500g/mol Cl / 134.4500g/mol 3CuCl2(aq) * 100% = 52% Cl in 3CuCl2(aq) ","1Fe * 55.8500g/mol Fe / 55.8500g/mol 2Fe(s) * 100% = 100% Fe in 2Fe(s) ","1Fe * 55.8500g/mol Fe / 162.2000g/mol 2FeCl3(aq) * 100% = 34% Fe in 2FeCl3(aq) 3Cl * 35.4500g/mol Cl / 162.2000g/mol 2FeCl3(aq) * 100% = 65% Cl in 2FeCl3(aq) ","1Cu * 63.5500g/mol Cu / 63.5500g/mol 3Cu(s) * 100% = 100% Cu in 3Cu(s) ",

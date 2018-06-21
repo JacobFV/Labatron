@@ -1,0 +1,5 @@
+"63.5500 * 1 Cu + 35.4500 * 2 Cl = 134.4500g/mol","24.3100 * 1 Mg = 24.3100g/mol","24.3100 * 1 Mg + 35.4500 * 2 Cl = 95.2100g/mol","63.5500 * 1 Cu = 63.5500g/mol",
+"0.0033mol * 134.4500g/mol = 0.4425g","0.08 grams given","0.0033mol * 95.2100g/mol = 0.3133g","0.0033mol * 63.5500g/mol = 0.2091g",
+"(0.08g / 24.31g/mol) Mg(s) * CuCl2(aq) / Mg(s) = 0.0033mol","(0.08g / 24.31g/mol) Mg(s) * Mg(s) / Mg(s) = 0.0033mol","(0.08g / 24.31g/mol) Mg(s) * MgCl2(aq) / Mg(s) = 0.0033mol","(0.08g / 24.31g/mol) Mg(s) * Cu(s) / Mg(s) = 0.0033mol",
+"CuCl2(aq) is not a gas","Mg(s) is not a gas","MgCl2(aq) is not a gas","Cu(s) is not a gas",
+"1Cu * 63.5500g/mol Cu / 134.4500g/mol CuCl2(aq) * 100% = 47% Cu in CuCl2(aq) 2Cl * 35.4500g/mol Cl / 134.4500g/mol CuCl2(aq) * 100% = 52% Cl in CuCl2(aq) ","1Mg * 24.3100g/mol Mg / 24.3100g/mol Mg(s) * 100% = 100% Mg in Mg(s) ","1Mg * 24.3100g/mol Mg / 95.2100g/mol MgCl2(aq) * 100% = 25% Mg in MgCl2(aq) 2Cl * 35.4500g/mol Cl / 95.2100g/mol MgCl2(aq) * 100% = 74% Cl in MgCl2(aq) ","1Cu * 63.5500g/mol Cu / 63.5500g/mol Cu(s) * 100% = 100% Cu in Cu(s) ",

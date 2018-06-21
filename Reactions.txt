@@ -1,0 +1,7 @@
+REACTIONS
+3CuCl2(aq)+2Al(s)->2AlCl3(aq)+3Cu(s)
+3CuCl2(aq)+2Fe(s)->2FeCl3(aq)+3Cu(s)
+CuCl2(aq)+Pb(s)->PbCl2(s)+Cu(s)
+CuCl2(aq)+Mg(s)->MgCl2(aq)+Cu(s)
+2CuCl2(aq)+Sn(s)->SnCl4(aq)+2Cu(s)
+CuCl2(aq)+Zn(s)->ZnCl2(aq)+Cu(s)

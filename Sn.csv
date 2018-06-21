@@ -1,0 +1,5 @@
+"63.5500 * 1 Cu + 35.4500 * 2 Cl = 134.4500g/mol","118.7000 * 1 Sn = 118.7000g/mol","118.7000 * 1 Sn + 35.4500 * 4 Cl = 260.5000g/mol","63.5500 * 1 Cu = 63.5500g/mol",
+"0.0035mol * 134.4500g/mol = 0.2379g","0.21 grams given","0.0018mol * 260.5000g/mol = 0.4609g","0.0035mol * 63.5500g/mol = 0.1124g",
+"(0.21g / 118.7g/mol) Sn(s) * 2CuCl2(aq) / Sn(s) = 0.0035mol","(0.21g / 118.7g/mol) Sn(s) * Sn(s) / Sn(s) = 0.0018mol","(0.21g / 118.7g/mol) Sn(s) * SnCl4(aq) / Sn(s) = 0.0018mol","(0.21g / 118.7g/mol) Sn(s) * 2Cu(s) / Sn(s) = 0.0035mol",
+"2CuCl2(aq) is not a gas","Sn(s) is not a gas","SnCl4(aq) is not a gas","2Cu(s) is not a gas",
+"1Cu * 63.5500g/mol Cu / 134.4500g/mol 2CuCl2(aq) * 100% = 47% Cu in 2CuCl2(aq) 2Cl * 35.4500g/mol Cl / 134.4500g/mol 2CuCl2(aq) * 100% = 52% Cl in 2CuCl2(aq) ","1Sn * 118.7000g/mol Sn / 118.7000g/mol Sn(s) * 100% = 100% Sn in Sn(s) ","1Sn * 118.7000g/mol Sn / 260.5000g/mol SnCl4(aq) * 100% = 45% Sn in SnCl4(aq) 4Cl * 35.4500g/mol Cl / 260.5000g/mol SnCl4(aq) * 100% = 54% Cl in SnCl4(aq) ","1Cu * 63.5500g/mol Cu / 63.5500g/mol 2Cu(s) * 100% = 100% Cu in 2Cu(s) ",

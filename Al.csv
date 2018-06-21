@@ -1,0 +1,5 @@
+"63.5500 * 1 Cu + 35.4500 * 2 Cl = 134.4500g/mol","26.9800 * 1 Al = 26.9800g/mol","26.9800 * 1 Al + 35.4500 * 3 Cl = 133.3300g/mol","63.5500 * 1 Cu = 63.5500g/mol",
+"0.0078mol * 134.4500g/mol = 0.6977g","0.14 grams given","0.0052mol * 133.3300g/mol = 0.6919g","0.0078mol * 63.5500g/mol = 0.3298g",
+"(0.14g / 26.98g/mol) 2Al(s) * 3CuCl2(aq) / 2Al(s) = 0.0078mol","(0.14g / 26.98g/mol) 2Al(s) * 2Al(s) / 2Al(s) = 0.0052mol","(0.14g / 26.98g/mol) 2Al(s) * 2AlCl3(aq) / 2Al(s) = 0.0052mol","(0.14g / 26.98g/mol) 2Al(s) * 3Cu(s) / 2Al(s) = 0.0078mol",
+"3CuCl2(aq) is not a gas","2Al(s) is not a gas","2AlCl3(aq) is not a gas","3Cu(s) is not a gas",
+"1Cu * 63.5500g/mol Cu / 134.4500g/mol 3CuCl2(aq) * 100% = 47% Cu in 3CuCl2(aq) 2Cl * 35.4500g/mol Cl / 134.4500g/mol 3CuCl2(aq) * 100% = 52% Cl in 3CuCl2(aq) ","1Al * 26.9800g/mol Al / 26.9800g/mol 2Al(s) * 100% = 100% Al in 2Al(s) ","1Al * 26.9800g/mol Al / 133.3300g/mol 2AlCl3(aq) * 100% = 20% Al in 2AlCl3(aq) 3Cl * 35.4500g/mol Cl / 133.3300g/mol 2AlCl3(aq) * 100% = 79% Cl in 2AlCl3(aq) ","1Cu * 63.5500g/mol Cu / 63.5500g/mol 3Cu(s) * 100% = 100% Cu in 3Cu(s) ",
