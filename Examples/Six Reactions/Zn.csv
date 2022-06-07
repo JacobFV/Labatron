@@ -1,0 +1,5 @@
+"63.5500 * 1 Cu + 35.4500 * 2 Cl = 134.4500g/mol","65.4100 * 1 Zn = 65.4100g/mol","65.4100 * 1 Zn + 35.4500 * 2 Cl = 136.3100g/mol","63.5500 * 1 Cu = 63.5500g/mol",
+"0.0046mol * 134.4500g/mol = 0.6166g","0.3 grams given","0.0046mol * 136.3100g/mol = 0.6252g","0.0046mol * 63.5500g/mol = 0.2915g",
+"(0.3g / 65.41g/mol) Zn(s) * CuCl2(aq) / Zn(s) = 0.0046mol","(0.3g / 65.41g/mol) Zn(s) * Zn(s) / Zn(s) = 0.0046mol","(0.3g / 65.41g/mol) Zn(s) * ZnCl2(aq) / Zn(s) = 0.0046mol","(0.3g / 65.41g/mol) Zn(s) * Cu(s) / Zn(s) = 0.0046mol",
+"CuCl2(aq) is not a gas","Zn(s) is not a gas","ZnCl2(aq) is not a gas","Cu(s) is not a gas",
+"1Cu * 63.5500g/mol Cu / 134.4500g/mol CuCl2(aq) * 100% = 47% Cu in CuCl2(aq) 2Cl * 35.4500g/mol Cl / 134.4500g/mol CuCl2(aq) * 100% = 52% Cl in CuCl2(aq) ","1Zn * 65.4100g/mol Zn / 65.4100g/mol Zn(s) * 100% = 100% Zn in Zn(s) ","1Zn * 65.4100g/mol Zn / 136.3100g/mol ZnCl2(aq) * 100% = 47% Zn in ZnCl2(aq) 2Cl * 35.4500g/mol Cl / 136.3100g/mol ZnCl2(aq) * 100% = 52% Cl in ZnCl2(aq) ","1Cu * 63.5500g/mol Cu / 63.5500g/mol Cu(s) * 100% = 100% Cu in Cu(s) ",

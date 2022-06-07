@@ -1,0 +1,5 @@
+"1.01 * 2 H + 16.00 * 1 O = 18.02g/mol","16.00 * 2 O = 32.00g/mol","1.01 * 2 H = 2.02g/mol",
+"1.25 grams given","0.03mol * 32.00g/mol = 2.22g","0.07mol * 2.02g/mol = 0.14g",
+"(1.25g / 18.02g/mol) 2H2O(l) * 2H2O(l) / 2H2O(l) = 0.07mol","(1.25g / 18.02g/mol) 2H2O(l) * O2(g) / 2H2O(l) = 0.03mol","(1.25g / 18.02g/mol) 2H2O(l) * 2H2(g) / 2H2O(l) = 0.07mol",
+"2H2O(l) is not a gas","0.03mol * 22.40L/mol = 0.78L @ STP.","0.07mol * 22.40L/mol = 1.55L @ STP.",
+"2H * 1.01g/mol H / 18.02g/mol 2H2O(l) * 100% = 11% H in 2H2O(l) 1O * 16.00g/mol O / 18.02g/mol 2H2O(l) * 100% = 88% O in 2H2O(l) ","2O * 16.00g/mol O / 32.00g/mol O2(g) * 100% = 100% O in O2(g) ","2H * 1.01g/mol H / 2.02g/mol 2H2(g) * 100% = 100% H in 2H2(g) ",

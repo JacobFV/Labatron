@@ -1,0 +1,12 @@
+C:\Users\Jacob\Documents\Labatorn\Labatron\Labatron\bin\Debug\Labatron.exe.config
+C:\Users\Jacob\Documents\Labatorn\Labatron\Labatron\obj\Debug\Labatron.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\Documents\Labatorn\Labatron\Labatron\bin\Debug\Labatron.exe
+C:\Users\Jacob\Documents\Labatorn\Labatron\Labatron\bin\Debug\Labatron.pdb
+C:\Users\Jacob\Documents\Labatorn\Labatron\Labatron\bin\Debug\CUI.dll
+C:\Users\Jacob\Documents\Labatorn\Labatron\Labatron\bin\Debug\CUI.pdb
+C:\Users\Jacob\Documents\Labatorn\Labatron\Labatron\obj\Debug\Labatron.exe
+C:\Users\Jacob\Documents\Labatorn\Labatron\Labatron\obj\Debug\Labatron.pdb
+C:\Users\Jacob\Documents\Labatorn\Labatron\Labatron\bin\Debug\Labatron.exe.manifest
+C:\Users\Jacob\Documents\Labatorn\Labatron\Labatron\bin\Debug\Labatron.application
+C:\Users\Jacob\Documents\Labatorn\Labatron\Labatron\obj\Debug\Labatron.exe.manifest
+C:\Users\Jacob\Documents\Labatorn\Labatron\Labatron\obj\Debug\Labatron.application

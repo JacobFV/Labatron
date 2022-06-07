@@ -1,0 +1,5 @@
+"63.5500 * 1 Cu + 35.4500 * 2 Cl = 134.4500g/mol","207.2000 * 1 Pb = 207.2000g/mol","207.2000 * 1 Pb + 35.4500 * 2 Cl = 278.1000g/mol","63.5500 * 1 Cu = 63.5500g/mol",
+"0.0022mol * 134.4500g/mol = 0.2920g","0.45 grams given","0.0022mol * 278.1000g/mol = 0.6040g","0.0022mol * 63.5500g/mol = 0.1380g",
+"(0.45g / 207.2g/mol) Pb(s) * CuCl2(aq) / Pb(s) = 0.0022mol","(0.45g / 207.2g/mol) Pb(s) * Pb(s) / Pb(s) = 0.0022mol","(0.45g / 207.2g/mol) Pb(s) * PbCl2(s) / Pb(s) = 0.0022mol","(0.45g / 207.2g/mol) Pb(s) * Cu(s) / Pb(s) = 0.0022mol",
+"CuCl2(aq) is not a gas","Pb(s) is not a gas","PbCl2(s) is not a gas","Cu(s) is not a gas",
+"1Cu * 63.5500g/mol Cu / 134.4500g/mol CuCl2(aq) * 100% = 47% Cu in CuCl2(aq) 2Cl * 35.4500g/mol Cl / 134.4500g/mol CuCl2(aq) * 100% = 52% Cl in CuCl2(aq) ","1Pb * 207.2000g/mol Pb / 207.2000g/mol Pb(s) * 100% = 100% Pb in Pb(s) ","1Pb * 207.2000g/mol Pb / 278.1000g/mol PbCl2(s) * 100% = 74% Pb in PbCl2(s) 2Cl * 35.4500g/mol Cl / 278.1000g/mol PbCl2(s) * 100% = 25% Cl in PbCl2(s) ","1Cu * 63.5500g/mol Cu / 63.5500g/mol Cu(s) * 100% = 100% Cu in Cu(s) ",

@@ -1,0 +1,7 @@
+names,,,,
+gfwt,1.0100 * 1 H + 35.4500 * 1 Cl = 36.4600g/mol,22.9900 * 1 Na + 16.0000 * 1 O + 1.0100 * 1 H = 40.0000g/mol,22.9900 * 1 Na + 35.4500 * 1 Cl = 58.4400g/mol,1.0100 * 2 H + 16.0000 * 1 O = 18.0200g/mol
+grams,0.0250mol * 36.4600g/mol = 0.9115g,0.0250mol * 40.0000g/mol = 1.0000g,0.0250mol * 58.4400g/mol = 1.4610g,0.0250mol * 18.0200g/mol = 0.4505g
+moles,0.0250L * 1.0000mol/L = 0.0250mol,(0.025L * 1mol/L) HCl(aq) * NaOH(aq) / HCl(aq) = 0.0250mol,(0.025L * 1mol/L) HCl(aq) * NaCl(aq) / HCl(aq) = 0.0250mol,(0.025L * 1mol/L) HCl(aq) * H2O(l) / HCl(aq) = 0.0250mol
+gas liters,HCl(aq) is not a gas,NaOH(aq) is not a gas,NaCl(aq) is not a gas,H2O(l) is not a gas
+% comp,1H * 1.0100g/mol H / 36.4600g/mol HCl(aq) * 100% = 2% H in HCl(aq) 1Cl * 35.4500g/mol Cl / 36.4600g/mol HCl(aq) * 100% = 97% Cl in HCl(aq) ,1Na * 22.9900g/mol Na / 40.0000g/mol NaOH(aq) * 100% = 57% Na in NaOH(aq) 1O * 16.0000g/mol O / 40.0000g/mol NaOH(aq) * 100% = 40% O in NaOH(aq) 1H * 1.0100g/mol H / 40.0000g/mol NaOH(aq) * 100% = 2% H in NaOH(aq) ,1Na * 22.9900g/mol Na / 58.4400g/mol NaCl(aq) * 100% = 39% Na in NaCl(aq) 1Cl * 35.4500g/mol Cl / 58.4400g/mol NaCl(aq) * 100% = 60% Cl in NaCl(aq) ,2H * 1.0100g/mol H / 18.0200g/mol H2O(l) * 100% = 11% H in H2O(l) 1O * 16.0000g/mol O / 18.0200g/mol H2O(l) * 100% = 88% O in H2O(l) 
+,,,,
